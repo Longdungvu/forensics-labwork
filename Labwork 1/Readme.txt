@@ -1,0 +1,3 @@
+- First i use the "tracking mouse position.py" script to find the position of the 4 angles i want to cut the picture with.
+- Then i use the "crop tools.py" to cut the picture according to the positions acquired from before
+- For the split color exercices, to obtain 3 channel picture i used the "split color.py" and the "split color real.py" for the decompose color one.
